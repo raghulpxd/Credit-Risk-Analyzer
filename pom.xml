@@ -22,20 +22,20 @@
             <artifactId>spring-kafka</artifactId>
         </dependency>
 
-        <!-- Weka for ML -->
+        <!-- Weka ML -->
         <dependency>
             <groupId>nz.ac.waikato.cms.weka</groupId>
             <artifactId>weka-stable</artifactId>
             <version>3.8.6</version>
         </dependency>
 
-        <!-- JSON -->
+        <!-- JSON support -->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
         </dependency>
 
-        <!-- Lombok for convenience -->
+        <!-- Lombok -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
@@ -43,6 +43,7 @@
             <scope>provided</scope>
         </dependency>
 
+        <!-- Testing -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
