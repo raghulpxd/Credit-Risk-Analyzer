@@ -27,6 +27,3 @@ Programming language: Java
 Frameworks & Libraries: Spring Boot, Weka, Jackson, Lombok  
 Event Streaming: Apache Kafka
 Build Tool: Maven  
-
-
-edit
