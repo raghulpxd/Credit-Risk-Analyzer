@@ -13,12 +13,10 @@ It is a Java-based, event-driven application that predicts the likelihood of loa
 
 This project demonstrates a finance + machine learning + event-driven architecture workflow suitable for credit risk assessment in banks or financial institutions.
 
-
 Project Domain:
 
 Banking / Risk Management 
 -Helps banks assess borrower credit risk and make informed lending decisions  
-
 
  Tech used:
  
