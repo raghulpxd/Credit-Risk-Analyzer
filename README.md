@@ -5,6 +5,7 @@ Its a Microservices-based credit risk analysis system using Java, Spring Boot, K
 
 
 
+
 Overview:
 It is a Java-based, event-driven application that predicts the likelihood of loan defaults. It uses machine learning to analyze borrower data such as age, income, loan amount, term, and credit score. The system supports:
 
