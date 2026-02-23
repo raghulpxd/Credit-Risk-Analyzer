@@ -1,5 +1,4 @@
 package com.example.creditrisk.api;
-
 import com.example.creditrisk.model.Predictor;
 import com.example.creditrisk.data.DataGenerator;
 import org.springframework.web.bind.annotation.*;
@@ -30,3 +29,4 @@ public class CreditRiskController {
         public double creditScore;
     }
 }
+
